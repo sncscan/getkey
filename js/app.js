@@ -3,7 +3,7 @@
  * Ganti WORKER_URL dengan URL Worker Cloudflare kamu
  */
 
-const WORKER_URL = "https://snc-getkey-api.YOUR_SUBDOMAIN.workers.dev";
+const WORKER_URL = "https://snc-getkey.pages.dev";
 
 // ─── State ───────────────────────────────────────────────────────────────────
 
